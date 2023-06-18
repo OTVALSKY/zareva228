@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zareva228
-- 👀 I’m interested in SQl Server, Desktop Automation, Window's Apps
+- 👀 I’m interested in SQl Server, Desktop Automation, Windows Apps
 - 🌱 I’m currently learning AHK script
 
 <!---
