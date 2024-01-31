@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zareva228
+- 👋 Hi, I’m @Otvalsky
 - 👀 I’m interested in SQl Server, Desktop Automation, Windows Apps
 - 🌱 I’m currently learning Python & AHK scripting language.
 - Main platform: Microsoft Windows 🪟
