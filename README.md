@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @zareva228
 - 👀 I’m interested in SQl Server, Desktop Automation, Windows Apps
-- 🌱 I’m currently learning AHK script
+- 🌱 I’m currently learning Python & AHK scripting language.
+- Main platform: Microsoft Windows 🪟
 
 <!---
 zareva228/zareva228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
