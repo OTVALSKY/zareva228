@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Otvalsky
-- 👀 I’m interested in SQl Server, Desktop Automation, Windows Apps
+- 👀 I’m interested in SQL Server, Desktop Automation, Windows Apps
 - 🌱 I’m currently learning Python & AHK scripting language.
 - Main platform: Microsoft Windows 🪟
 
